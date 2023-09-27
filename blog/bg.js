@@ -1,0 +1,1 @@
+document.body.style.backgroundImage = `url(../img/bg/${Math.ceil(Math.random()*15)}.gif)`;
